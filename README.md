@@ -10,5 +10,6 @@ The goals of this repository are the following:
 2) Replicate, if possible, the main results of the Dissertation publised on page 150 and page 156.  As shown in the analysis, logit estimation using "Statsmodel" in Python is similar to logit estimation using the "logit" command in Stata, but there is no equivalent of "xtlogit-random-effects" in Python.
 3) Find best Hyperparameter for SVM, Classification Trees and Logistic Regression, and compare the scores of these models with KNN.
 
+Notebooks guide:
 - Goals 1 and 2 are acommplished in the notebook "1 Wrangling and Logits".
 - Goal 3 is accomplished in notebook "1 Classification Algorithms".
