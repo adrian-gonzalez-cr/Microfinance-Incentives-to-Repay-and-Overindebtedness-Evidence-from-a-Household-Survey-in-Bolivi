@@ -12,4 +12,4 @@ The goals of this repository are the following:
 
 Notebooks guide:
 - Goals 1 and 2 are acommplished in the notebook "1 Wrangling and Logits".
-- Goal 3 is accomplished in notebook "1 Classification Algorithms".
+- Goal 3 is accomplished in notebook "2 Classification Algorithms".
